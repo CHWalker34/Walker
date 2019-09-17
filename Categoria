@@ -1,0 +1,37 @@
+<layouttype>http://i.imgur.com/Cps9kFh.jpg</layouttype>
+
+
+<channels>
+<channel>
+<name>TV</name>
+<thumbnail>http://i.imgur.com/Tgop9pY.png</thumbnail>
+<externallink>https://goo.gl/w1VyCI</externallink>
+<fanart>http://i.imgur.com/Cps9kFh.jpg</fanart>
+<info>Canais de TV com qualidades incrivéis</info>
+</channel>
+
+<channel>
+<name>Filmes</name>
+<thumbnail>http://i.imgur.com/LHd64Rj.png</thumbnail>
+<externallink>https://goo.gl/hJM0FB</externallink>
+<fanart>http://i.imgur.com/Cps9kFh.jpg</fanart>
+<info>Minha Videoteca com os melhores playlists e qualidades incrivéis</info>
+</channel>
+
+<channel>
+<name>Series</name>
+<thumbnail>http://i.imgur.com/0ojCaDi.png</thumbnail>
+<externallink>https://goo.gl/ZPDWkG</externallink>
+<fanart>http://i.imgur.com/Cps9kFh.jpg</fanart>
+<info>Minhas Séries favoritas com os melhores playlists e qualidades incrivéis</info>
+</channel>
+
+<channel>
+<name>Animes</name>
+<thumbnail>http://i.imgur.com/RnPxXLx.png</thumbnail>
+<externallink>https://goo.gl/kLbB1O</externallink>
+<fanart>http://i.imgur.com/Cps9kFh.jpg</fanart>
+<info>Meus Animes prediletos com os melhores playlists e qualidades incrivéis</info>
+</channel>
+
+</channels>
